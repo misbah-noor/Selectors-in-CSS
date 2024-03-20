@@ -1,0 +1,46 @@
+/*External CSS*/
+/*class selector*/
+.blue{
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    font-size: 25px;
+}
+
+/*group selector*/
+h1,h2,h3{
+    color: crimson;
+    font-size: 25px;
+}
+
+/*id selector*/
+#text{
+    background-color: purple;
+    padding: 20px;
+    color: white;
+}
+
+/*This selector work for multiple elements*/
+.one{
+    color:blue;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*These selectors work on same element*/
+.brown-border{
+    border: 4px solid brown;
+}
+
+.big-font{
+    font-size:20px;
+}
+
+.box{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    margin: 20px;
+    background-color: aqua;
+
+}
